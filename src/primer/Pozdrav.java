@@ -5,6 +5,7 @@ public class Pozdrav {
 		System.out.println("Zdravo ");
 		System.out.println("Zdravo i tebi");
 		System.out.println("cccc");
+		System.out.println("abc");
 
 	}
 }
